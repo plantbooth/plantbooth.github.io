@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Garden inspiration on Plantbooth</title>
+    <link>http://plantbooth.com/index.xml</link>
+    <description>Recent content in Garden inspiration on Plantbooth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; 2017 Plantbooth</copyright>
+    <lastBuildDate>Wed, 12 Apr 2017 20:58:09 +0800</lastBuildDate>
+    <atom:link href="http://plantbooth.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Butterfly Friendly Garden</title>
+      <link>http://plantbooth.com/beds/butterfly_friendly_garden/</link>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://plantbooth.com/beds/butterfly_friendly_garden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://plantbooth.com/about/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://plantbooth.com/about/</guid>
+      <description>&lt;p&gt;Hello, we hope you find this website helpful. We invite you to subscribe to our email newsletter. We will not pass your email address to a third party or send you unrelated emails. You can instantly unsubscribe at any time by clicking on the link in the footer of any email. We use Google Analytics to learn about how people find the Plantbooth website. Plantbooth is the trading name of Paul Dyke, Sole Trader. He may earn commission if you click on &amp;lsquo;buy at crocus.co.uk&amp;rsquo; links and then purchase from the Crocus website.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>English Cottage Garden</title>
+      <link>http://plantbooth.com/beds/english_cottage_garden/</link>
+      <pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://plantbooth.com/beds/english_cottage_garden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://plantbooth.com/contact/</link>
+      <pubDate>Sun, 12 Feb 2017 21:32:00 +0800</pubDate>
+      
+      <guid>http://plantbooth.com/contact/</guid>
+      <description>&lt;p&gt;If you have any comments about this website, good or bad, or suggestions for plant combinations please use the form below.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
