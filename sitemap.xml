@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://plantbooth.com/beds/breaking_ground_show_garden_chelsea_flower_show_2017/</loc>
+    <lastmod>2017-05-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://plantbooth.com/beds/child_friendly_garden/</loc>
     <lastmod>2017-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -45,7 +52,7 @@
   
   <url>
     <loc>http://plantbooth.com/beds/</loc>
-    <lastmod>2017-05-19T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -53,6 +60,13 @@
   <url>
     <loc>http://plantbooth.com/tags/butterfly/</loc>
     <lastmod>2017-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://plantbooth.com/tags/chelsea-flower-show/</loc>
+    <lastmod>2017-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
