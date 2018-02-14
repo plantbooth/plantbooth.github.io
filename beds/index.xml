@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beds on Plantbooth</title>
-    <link>http://plantbooth.com/beds/index.xml</link>
+    <link>http://plantbooth.com/beds/</link>
     <description>Recent content in Beds on Plantbooth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 07 Jun 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://plantbooth.com/beds/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://plantbooth.com/beds/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>The Morgan Stanley Garden</title>
@@ -33,8 +35,7 @@
       <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
       
       <guid>http://plantbooth.com/beds/breaking_ground_show_garden_chelsea_flower_show_2017/</guid>
-      <description>&lt;p&gt;The sandy heathland surrounding Wellington College is an inspiration for the planting used in this garden which includes grasses, sedges, birch and pine. Perennials or shrubs which have become home in the college are included here. &lt;a href=&#34;https://www.breakinggroundgarden.com&#34;&gt;Visit the Breaking Ground website&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>The sandy heathland surrounding Wellington College is an inspiration for the planting used in this garden which includes grasses, sedges, birch and pine. Perennials or shrubs which have become home in the college are included here. Visit the Breaking Ground website</description>
     </item>
     
     <item>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://plantbooth.com/beds/the_morgan_stanley_garden_chelsea_flower_show_2017/</loc>
@@ -86,6 +87,12 @@
   </url>
   
   <url>
+    <loc>http://plantbooth.com/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://plantbooth.com/tags/chelsea-flower-show/</loc>
     <lastmod>2017-06-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -101,6 +108,7 @@
   
   <url>
     <loc>http://plantbooth.com/tags/</loc>
+    <lastmod>2017-05-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Butterfly on Plantbooth</title>
-    <link>http://plantbooth.com/tags/butterfly/index.xml</link>
+    <link>http://plantbooth.com/tags/butterfly/</link>
     <description>Recent content in Butterfly on Plantbooth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <atom:link href="http://plantbooth.com/tags/butterfly/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://plantbooth.com/tags/butterfly/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Butterfly Friendly Garden</title>
