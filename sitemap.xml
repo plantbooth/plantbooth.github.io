@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://plantbooth.com/beds/the_morgan_stanley_garden_chelsea_flower_show_2017/</loc>
+    <loc>http://plantbooth.com/plants/the_morgan_stanley_garden_chelsea_flower_show_2017/</loc>
     <lastmod>2017-06-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://plantbooth.com/beds/royal_bank_of_canada_garden_rhs_chelsea_flower_show_2017/</loc>
+    <loc>http://plantbooth.com/plants/royal_bank_of_canada_garden_rhs_chelsea_flower_show_2017/</loc>
     <lastmod>2017-05-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://plantbooth.com/beds/breaking_ground_show_garden_chelsea_flower_show_2017/</loc>
+    <loc>http://plantbooth.com/plants/breaking_ground_show_garden_chelsea_flower_show_2017/</loc>
     <lastmod>2017-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://plantbooth.com/beds/silk_road_garden_chelsea_flower_show_2017/</loc>
+    <loc>http://plantbooth.com/plants/silk_road_garden_chelsea_flower_show_2017/</loc>
     <lastmod>2017-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://plantbooth.com/beds/child_friendly_garden/</loc>
+    <loc>http://plantbooth.com/plants/child_friendly_garden/</loc>
     <lastmod>2017-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://plantbooth.com/beds/butterfly_friendly_garden/</loc>
+    <loc>http://plantbooth.com/plants/butterfly_friendly_garden/</loc>
     <lastmod>2017-05-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -59,7 +59,7 @@
   </url>
   
   <url>
-    <loc>http://plantbooth.com/beds/english_cottage_garden/</loc>
+    <loc>http://plantbooth.com/plants/english_cottage_garden/</loc>
     <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -70,13 +70,6 @@
     <lastmod>2017-02-12T21:32:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://plantbooth.com/beds/</loc>
-    <lastmod>2017-06-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -102,6 +95,13 @@
   <url>
     <loc>http://plantbooth.com/tags/children/</loc>
     <lastmod>2017-05-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://plantbooth.com/plants/</loc>
+    <lastmod>2017-06-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
