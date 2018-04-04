@@ -29,9 +29,9 @@ p {
 h1 {
     font-family: 'Merienda One';
     color: #1d0120;
-    margin-bottom: 0.4em;
+    margin-bottom: 0.1em;
     margin-top: 0.4em;
-    font-weight: 700;
+    font-weight: 500;
 }
 
 h2 {
@@ -44,8 +44,8 @@ h2 {
 h3 {
     margin: 0;
     color: #1d0120;
-    font-weight: 700;
-    line-height: 1.1em;
+    font-weight: 600;
+    line-height: 1.3em;
     margin-bottom: 0.4em;
 }
 
@@ -74,6 +74,16 @@ h6 {
     line-height: 1.5em;
     margin-bottom: 0.4em;
     font-style: italic;
+}
+
+hr {
+  border: 0; 
+  height: 2px; 
+  background-image: -webkit-linear-gradient(left, #fff, #eee, #fff);
+  background-image: -moz-linear-gradient(left, #fff, #eee, #fff);
+  background-image: -ms-linear-gradient(left, #fff, #eee, #fff);
+  background-image: -o-linear-gradient(left, #fff, #eee, #fff);
+  margin: 1em 0em;   
 }
 
 .underline {
